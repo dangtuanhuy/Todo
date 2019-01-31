@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                  Laragon
+                  Laragon - Laravel
                 </div>
 
                 {{-- <div class="links">
